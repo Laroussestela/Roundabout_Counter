@@ -1,0 +1,6 @@
+path: E:/00. Kaggle/21. Yolo rotonda/train_yolo/dataset
+train: images/train
+val: images/train
+
+names:
+  0: Car
